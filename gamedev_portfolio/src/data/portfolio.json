@@ -1,0 +1,170 @@
+{
+  "name": "David Fernández",
+  "headerTaglineOne": "Hi there,",
+  "headerTaglineTwo": "I'm David Fernández",
+  "headerTaglineThree": "",
+  "headerTaglineFour": "",
+  "typeEffectOptions": [
+    "Full-stack Developer",
+    "Front-End Developer",
+    "Game Developer",
+    "Software Engineer"
+  ],
+  "showCursor": true,
+  "showBlog": false,
+  "darkMode": true,
+  "showResume": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/david-fer-fer"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/david-fern%C3%A1ndez-fern%C3%A1ndez-372b77209/"
+    },
+    {
+      "id": "3",
+      "title": "Email",
+      "link": "mailto:davidfdez225@gmail.com"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Shuvani",
+      "description": "A dual-stick isometric roguelite built using Unreal Engine 4",
+      "type": "video",
+      "src": "videos/Shuvani_Thumbnail.mp4",
+      "url": ""
+    },
+    {
+      "id": "2",
+      "title": "Robot Rush",
+      "description": "Fun little 3D arcade bullet hell game made entirely with OpenGL and C++",
+      "type": "iframe",
+      "src": "https://drive.google.com/file/d/1SSwDpP7y4gYTiJw_aV3orxVP00dRt_qs/preview",
+      "url": ""
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "title": "Art Direction",
+      "description": "We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."
+    }
+  ],
+  "aboutImg": "images/aboutPicture.jpg",
+  "aboutpara": "Hi there! I'm David, a full-stack Sofware Engineer and a junior Game Developer. I've been developing different kinds of user-oriented software since 2016, when I stumbled upon coding tutorials and Unity (which back then seemed like absolute black magic). Currently, as a part of my master's degree, I'm working on Shuvani, a completely original title. \nI've always been a very curious and creative individual which is why I was quickly drawn towards the more artistic fields of computer engineering, ultimately ending up in the video game industry. Honestly, I should've seen it coming.",
+  "resume": {
+    "file":"DavidFernandezFernandez_Resume.pdf",
+    "tagline": "I'm a full-stack software engineer and video game developer.",
+    "description": "I am well-versed with most of the tech stack used in web development and I have solid knowledge about usability in engineering and user-oriented software development.",
+    "languages": [
+      "Javascript",
+      "Java",
+      "C++",
+      "C#",
+      "HTML5",
+      "SQL"
+    ],
+    "frameworks": [
+      "ReactJs",
+      "Java Spring",
+      "NodeJs",
+      "Tailwind CSS"
+    ],
+    "others": [
+      "Unreal Engine 4",
+      "Docker"
+    ],
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "October 2022 - Present",
+        "type": "Part Time",
+        "position": "Frontend Engineer at Eurob Creative S.L.",
+        "bullets": "Worked on the frontend of a web application, Migrated whole web to ReactJS"
+      },
+      {
+        "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+        "dates": "July 2021 - August 2021",
+        "type": "Internship",
+        "position": "Full-Stack Developer at Everis S.L.",
+        "bullets": "Worked on a project for the Galician Health Service, The app was used to notify citizens of COVID-19 vaccination apointments"
+      },
+      {
+        "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+        "dates": "April 2021 - December 2021",
+        "type": "Internship",
+        "position": "DevOps at Tecknolab S.L.",
+        "bullets": "Deployed a remote Sharepoint workspace to use for further software development"
+      }
+    ],
+    "education": [
+      {
+        "universityName": "Master's Degree in Video Game Development, Complutense University of Madrid",
+        "universityDate": "2022-2023",
+        "universityPara": "Collaboration as a gameplay and tools programmer in the development of an original title, Shuvani."
+      },
+      {
+        "universityName": "Degree in Computer Engineering, University of Santiago de Compostela",
+        "universityDate": "2018-2022",
+        "universityPara": "Graduated with an average academic score of 9, having obtained distinction on five different subjects."
+      }
+    ]
+  },
+  "resumeExperience": [
+    {
+      "company": "Eurob Creative S.L., Madrid",
+      "title": "Front-End Developer",
+      "years": "10/2020 - present",
+      "description": [
+        "Development of a web application for the medical and nutritional support of elite athletes"
+      ],
+      "technologies": [
+        "REST API",
+        "React JS",
+        "JavaScript",
+        "Bootstrap",
+        "Mongo DB",
+        "Node JS"
+      ],
+      "icon": "fab fa-react"
+    },
+    {
+      "company": "Everis Spain S.L., A Coruña",
+      "title": "Intern",
+      "years": " 06/2021 - 08/2021",
+      "description": [
+        "Collaboration in the CRM 100 project for the Galician Health Service, targeted towards facilitating the process of vaccination against COVID-19"
+      ],
+      "technologies": [
+        "Java Swing",
+        "PHP",
+        "JavaScript",
+        "HTML",
+        "SQL",
+        "PhpMyAdmin"
+      ],
+      "icon": "fab fa-js-square"
+    },
+    {
+      "company": "Tecknolab S.L., Madrid",
+      "title": "Intern",
+      "years": " 4/2020 - 12/2020",
+      "description": [
+        "Active participation on the development of a Cloud Storage service"
+      ],
+      "technologies": [
+        "Google Cloud",
+        "Shell scripting",
+        "Docker",
+        "SharePoint"
+      ],
+      "icon": "fab fa-docker"
+    }
+  ]
+}
