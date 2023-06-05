@@ -88,7 +88,7 @@ const Header = ({ handleWorkScroll, handleExperienceScroll, handleAboutScroll, i
                   )}
 
                   <Button
-                    onClick={() => window.open("davidfdez225@gmail.com")}
+                    onClick={() => window.open("mailto:davidfdez225@gmail.com")}
                   >
                     Contact
                   </Button>
@@ -117,7 +117,7 @@ const Header = ({ handleWorkScroll, handleExperienceScroll, handleAboutScroll, i
                   )}
 
                   <Button
-                    onClick={() => window.open("mailto:hello@chetanverma.com")}
+                    onClick={() => window.open("mailto:davidfdez225@gmail.com")}
                   >
                     Contact
                   </Button>
@@ -158,7 +158,7 @@ const Header = ({ handleWorkScroll, handleExperienceScroll, handleAboutScroll, i
                 </Link>
             )}
 
-            <Button onClick={() => window.open("mailto:hello@chetanverma.com")}>
+            <Button onClick={() => window.open("mailto:davidfdez225@gmail.com")}>
               Contact
             </Button>
             {mounted && theme && data.darkMode && (
@@ -194,7 +194,7 @@ const Header = ({ handleWorkScroll, handleExperienceScroll, handleAboutScroll, i
                 </Link>
             )}
 
-            <Button onClick={() => window.open("mailto:hello@chetanverma.com")}>
+            <Button onClick={() => window.open("mailto:davidfdez225@gmail.com")}>
               Contact
             </Button>
 
