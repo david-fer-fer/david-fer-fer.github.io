@@ -35,18 +35,20 @@
     {
       "id": "1",
       "title": "Shuvani",
-      "description": "A dual-stick isometric roguelite built using Unreal Engine 4",
+      "headline": "A dual-stick isometric roguelite built using Unreal Engine 4",
       "type": "video",
       "src": "videos/Shuvani_Thumbnail.mp4",
-      "url": ""
+      "url": "https://drive.google.com/file/d/1ReNdLG-tiSlbCW_qrJQg-_M8t2nQHmP6/preview",
+      "description": "I collaborated with more than 35 people, from different fields of knowledge, to develop an original title as a part of my master's degree final project. Mainly I worked as a gameplay and tools programmer, tackling the more combat-oriented aspects of the game. I implemented the player controller, together with an aim assist system, as well as the functionality and toolset used to create all the abilities used both by the main player and the enemies."
     },
     {
       "id": "2",
       "title": "Robot Rush",
-      "description": "Fun little 3D arcade bullet hell game made entirely with OpenGL and C++",
-      "type": "iframe",
-      "src": "https://drive.google.com/file/d/1SSwDpP7y4gYTiJw_aV3orxVP00dRt_qs/preview",
-      "url": ""
+      "headline": "Fun little 3D arcade bullet hell game made entirely with OpenGL and C++",
+      "type": "image",
+      "src": "images/RobotRush.png",
+      "url": "https://drive.google.com/file/d/1SSwDpP7y4gYTiJw_aV3orxVP00dRt_qs/preview",
+      "description": "I built and put together a little mini-game from scratch using only C++ and OpenGL, together with all the necessary libraries used for loading assets such as meshes, textures or sounds. In this project I had to deal with the nuances of capturing both mouse and keyboard input, handling collisions, keeping track of my own deltaTime to handle the simulation and even developing custom shaders for specific components. Feel free to check out a little video by clicking on the banner."
     }
   ],
   "services": [
