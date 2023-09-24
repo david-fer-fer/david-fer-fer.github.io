@@ -85,7 +85,13 @@
     "experiences": [
       {
         "id": "1",
-        "dates": "October 2022 - Present",
+        "dates": "August 2023 - Present",
+        "type": "Full Time",
+        "position": "AI Programmer at MercurySteam Entertainment S.L."
+      },
+      {
+        "id": "2",
+        "dates": "October 2022 - July 2023",
         "type": "Part Time",
         "position": "Frontend Engineer at Eurob Creative S.L.",
         "bullets": "Worked on the frontend of a web application, Migrated whole web to ReactJS"
@@ -120,9 +126,23 @@
   },
   "resumeExperience": [
     {
+      "company": "MercurySteam Entertainment S.L., Madrid",
+      "title": "Game AI Programmer",
+      "years": "08/2023 - present",
+      "description": [
+        ""
+      ],
+      "technologies": [
+        "C++",
+        "Perforce",
+        "Jira"
+      ],
+      "icon": "fa-solid fa-gamepad"
+    },
+    {
       "company": "Eurob Creative S.L., Madrid",
       "title": "Front-End Developer",
-      "years": "10/2020 - present",
+      "years": "10/2022 - 07/2023",
       "description": [
         "Development of a web application for the medical and nutritional support of elite athletes"
       ],
